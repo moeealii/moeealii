@@ -10,7 +10,7 @@ Senior software developer focused on **AI systems**: agentic workflows, LLM tool
 
 ## 🛠️ Tech stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Claude%20API-191919?logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-5A45FF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=rubyonrails&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Claude%20API-191919?logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-5A45FF)
 
 ## 📫 Get in touch
 
