@@ -1,6 +1,6 @@
 ### Hi, I'm Mohamed 👋
 
-Senior software developer focused on **AI systems**: agentic workflows, LLM tooling, and the production infrastructure that connects models to real services. I've built production apps, internal tools and cloud infrastructure for teams at **TextNow**, **Cardea Health** and **Tactable**.
+Senior software developer focused on **AI systems**: agentic workflows, LLM tooling, and the production infrastructure that connects models to real services. I've built production apps, internal tools and cloud infrastructure for teams at **TextNow** and **Tactable**.
 
 ## 🔧 What I'm building
 
