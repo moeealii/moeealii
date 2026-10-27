@@ -2,6 +2,16 @@
 
 Senior software developer focused on **AI systems**: agentic workflows, LLM tooling, and the production infrastructure that connects models to real services. I've built production apps, internal tools and cloud infrastructure for teams at **TextNow** and **Tactable**.
 
+## 🏠 Featured project — The Office
+
+[![The Office — interactive 3D digital twin](https://raw.githubusercontent.com/moeealii/office-digital-twin/main/public/og.jpg)](https://office.thealifamily.ca/)
+
+**[Try the live demo](https://office.thealifamily.ca/) · [Explore the public code](https://github.com/moeealii/office-digital-twin)**
+
+A LiDAR-based office digital twin built with **Three.js, React and TypeScript**. Progressive rendering brings the room into focus as you explore, with first-person navigation and an in-scene editor for moving, rotating and replacing objects. Browser-local autosave preserves edits across refreshes; Reset and Undo make experimentation reversible.
+
+The public edition preserves the room geometry while using procedural surfaces and synthetic telemetry instead of private household data.
+
 ## 🔧 What I'm building
 
 - **[tool-forge](https://github.com/moeealii/tool-forge)**: turns any OpenAPI spec into a *code-mode* MCP server. The model writes JavaScript against a typed API in a QuickJS sandbox, while auth, rate limits and an audit log stay on the host.
